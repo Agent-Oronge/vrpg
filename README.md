@@ -5,7 +5,7 @@ We are doing a RPG maker game. If you think that's dumb, then you're free to not
 ## Art
 - Tan busts and sprites for the Board tans and game genre tans.
 - Tile sets for maps
-- main Player sprites
+- Main Player sprites
 
 ## Music
 MUSIC EVERYWHERE
