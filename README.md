@@ -8,16 +8,19 @@ We are doing a RPG maker game. If you think that's dumb, then you're free to not
 - Main Player sprites
 
 ## Music
-MUSIC EVERYWHERE
+- MUSIC EVERYWHERE
 
 ## Coding
-JavaScript scripts to expand the mechanics of our game.
+- JavaScript scripts to expand the mechanics of our game.
 
 ## Slave labor
-Placing resources into the repository and correctly labeling them for use.
+- Placing resources into the repository and correctly labeling them for use.
 
-## Groups within our group
-We will be breaking up the world map, and will need people to organize into smaller groups to fulfill that under some sort of lead. while that won't be for a few days, keep that in mind.
+## Leadership
+Agent Orange is heading the project. 
+He'll regularly post what he'd like help with, dialogue, assets needed, his technological incompetance, and so forth. 
+The list will be available in this document as well.
+The game is being made for you, not him. If there's something you don't like, tell him how to fix it.
 
 ## Shitposters
 - Lazy "Ideasguys" for inspiration
