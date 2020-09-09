@@ -3,9 +3,9 @@
 We are doing a RPG maker game. If you think that's dumb, then you're free to not participate and just shitpost.
 
 ## Art
-- Tan busts and sprites for the 50+ Board tans and game genre tans.
+- Tan busts and sprites for the Board tans and game genre tans.
 - Tile sets for maps
-- main Player concepts to be voted on (once we decide what we generally want)
+- main Player sprites
 
 ## Music
 MUSIC EVERYWHERE
