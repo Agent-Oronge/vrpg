@@ -1,0 +1,11 @@
+9/9/2020
+- I Can now actually use Github and RPGMaker
+
+- Added Titlescreen image
+
+- Put the Main Home inside a village, rather than the old overworld
+
+- Updated the readme
+
+- Currently creating village monster attack event. This includes redoing the intro. 
+
