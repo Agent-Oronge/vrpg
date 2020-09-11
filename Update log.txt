@@ -1,11 +1,10 @@
 9/9/2020
-- I Can now actually use Github and RPGMaker
-
+- Still learning the all the bells and whistles of rpgmaker, but am more competant
 - Added Titlescreen image
-
-- Put the Main Home inside a village, rather than the old overworld
-
+- Game begins inside village rather than the old overworld. 
 - Updated the readme
-
-- Currently creating village monster attack event. This includes redoing the intro. 
-
+- Currently redoing intro
+9/10/2020
+- Now have dialogue written for intro by generous anon
+- Writing events for intro (this is my first time creating a cutscene so please have patience with me)
+- Updating Wes' sprite to the oc one, but I need to make some frames myself as it was incomplete.
