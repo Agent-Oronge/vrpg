@@ -8,3 +8,6 @@
 - Now have dialogue written for intro by generous anon
 - Writing events for intro (this is my first time creating a cutscene so please have patience with me)
 - Updating Wes' sprite to the oc one, but I need to make some frames myself as it was incomplete.
+9/11/2020
+-Not much today. Spent a few hours learning about sprites and actors. Sounds ridiculous but I'm new to alot of this. 
+-Working on Wes' new frames. Should be done soon. Wes will no longer be a manlet following. 
