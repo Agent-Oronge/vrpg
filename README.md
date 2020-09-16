@@ -1,6 +1,9 @@
 # /vrpg/ makes a jrpg
 
 We are doing a RPG maker game. If you think that's dumb, then you're free to not participate and just shitpost.
+A new thread will be made on the first of every month. Requests for sprites, dialogue, maps etc will be listed.
+If the thread hits the bump limit, a new one will be made, but if it dies it goes back to the first of next month.
+Dead thread =/= Dead game. 
 
 ## Art
 - Tan busts and sprites for the Board tans and game genre tans.

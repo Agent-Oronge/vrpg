@@ -4,19 +4,30 @@
 - Game begins inside village rather than the old overworld. 
 - Updated the readme
 - Currently redoing intro
+
 9/10/2020
 - Now have dialogue written for intro by generous anon
 - Writing events for intro (this is my first time creating a cutscene so please have patience with me)
 - Updating Wes' sprite to the oc one, but I need to make some frames myself as it was incomplete.
+
 9/11/2020
 -Not much today. Spent a few hours learning about sprites and actors. Sounds ridiculous but I'm new to alot of this. 
 -Working on Wes' new frames. Should be done soon. Wes will no longer be a manlet following.
+
 9/12/2020
-Thread died! Fuck! But I don't want to quit.
+Thread died! Fuck! But I'm not going to quit.
 Shit, I'm going to miss Cioc Saz. He was a nice guy.  
 If you're reading this, and I doubt anyone is, development will continue. 
 Was going to do Wes sprites today. This threw me off track. 
+
 9/13/20
 -No changes today. 9 hour shift. 
+
 9/14/2020
--I had been working on the Wes sprites for over an hour but piskel crashed and I lost everything. No changes today. I'm really fuckin sad.
+-I had been working on the Wes sprites for an hour but piskel crashed and I lost everything. No changes today. I'm really fuckin sad.
+
+9/15/2020
+-Wes Overworld Sprites are complete. 
+-Wes no longer has a sword in his overworld sprite. Sorry. I couldn't make it look good. 
+-8 frame plugin works, and Wes' buttery smooth overworld sprites have now been implemented into the game. 
+-Wes is no longer a manlet, sizing issues are now resolved. 

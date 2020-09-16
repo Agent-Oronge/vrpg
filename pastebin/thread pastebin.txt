@@ -43,3 +43,45 @@ BOARD TAN RESOURCES
 Additional resources:
 ? Introduction to Github:[In works]
  
+
+
+
+
+
+
+Newer version
+
+What is this?
+>A Game developed by the new settlers of /vrpg/. Based on Dragon Quest 1 and other rpg favorites and built with RPGmaker MV.
+>The Game uses Board tans and has a silly, semi-serious tone. It features a pixel art style, with drawn dialogue sprites.
+
+Updates
+https://github.com/Agent-Oronge/vrpg/blob/master/Update%20log.txt
+
+We currently need:
+
+>OC Enemy Sprites
+>OC music
+>More tile variety(to be used in other places, like dungeons)
+>Proofreaders/editors for story
+>Town maps
+>Shop items in first town
+>List of recruitable characters
+>Feedback for current build
+
+Previous Thread: >>575427
+
+Resources:
+>Main repository: https://github.com/Agent-Oronge/vrpg
+>Playable build: https://ltw6610.github.io/vrpg/ (Old)
+>Pastebin: https://pastebin.com/iitXiGCR 
+>Overview of the Story: https://pastebin.com/tThbzDVS 
+>Plot for Prototype: https://pastebin.com/JeuYwyGg
+>Ideas Repo: https://pastebin.com/9aSC79m2 
+
+REMINDER:
+>We want to get the game prototype finished before we start getting caught up on tone, exact character names, side quests, and so on.
+>We are moving forward with ideas listed in the pastebin. Things that have been decided will not be changing for the time being.
+>Try to keep discussion based around helping the Devs have the resources needed to finish the prototype. If they make requests, try to help them.
+>This is not an ideas thread, this is a game making thread. Posting is fine, but please attempt to contribute
+>Please keep suggestions realistic
