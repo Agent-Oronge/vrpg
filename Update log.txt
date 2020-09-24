@@ -21,24 +21,33 @@ If you're reading this, and I doubt anyone is, development will continue.
 Was going to do Wes sprites today. This threw me off track. 
 
 9/13/20
--No changes today. 9 hour shift. 
+- No changes today. 9 hour shift. 
 
 9/14/2020
--I had been working on the Wes sprites for an hour but piskel crashed and I lost everything. No changes today. I'm really fuckin sad.
+- I had been working on the Wes sprites for an hour but piskel crashed and I lost everything. No changes today. I'm really fuckin sad.
 
 9/15/2020
--Wes Overworld Sprites are complete. 
--Wes no longer has a sword in his overworld sprite. Sorry. I couldn't make it look good. 
--8 frame plugin works, and Wes' buttery smooth overworld sprites have now been implemented into the game. 
--Wes is no longer a manlet, sizing issues are now resolved. 
+- Wes Overworld Sprites are complete. 
+- Wes no longer has a sword in his overworld sprite. Sorry. I couldn't make it look good. 
+- 8 frame plugin works, and Wes' buttery smooth overworld sprites have now been implemented into the game. 
+- Wes is no longer a manlet, sizing issues are now resolved. 
 Next step is to redo the intro. 
 With Wes' sprites finished, I can do that bit about him clipping into the floor. 
 
 9/16/2020
--Created sprites of Wes clipping into the floor for the intro. 
+- Created sprites of Wes clipping into the floor for the intro. 
 
 9/17/2020
--Good headway on the intro. Got all the bits leading up to the creature breaking in. 
--Wes floor clipping sprite sheets are now in game
--Added a tombstone in the village to mark future location of cemetary.
--Still not sure how to link a playable build, but I will figure it out. 
+- Good headway on the intro. Got all the bits leading up to the creature breaking in. 
+- Wes floor clipping sprite sheets are now in game
+- Added a tombstone in the village to mark future location of cemetary.
+- Still not sure how to link a playable build, but I will figure it out. 
+
+9/18/2020
+- More work on the intro. A bit more than half done now. Almost all the assets are placeholders though...
+
+9/23/2020
+Sorry about the hiatus. I had a problem, unrelated to the game. I'll keep working the game, though I'll likely focus on weekdays going forward. 
+- Intro is almost done. Interior portion is functionally complete, though as with everything, it will require touching up later.
+- Now working on exterior segment of Intro. 
+- Added an option to view only the exterior segment at the beginning, for convenience while testing.
