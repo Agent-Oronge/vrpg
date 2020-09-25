@@ -17,14 +17,7 @@
 9/12/2020
 Thread died! Fuck! But I'm not going to quit.
 Shit, I'm going to miss Cioc Saz. He was a nice guy.  
-If you're reading this, and I doubt anyone is, development will continue. 
-Was going to do Wes sprites today. This threw me off track. 
-
-9/13/20
-- No changes today. 9 hour shift. 
-
-9/14/2020
-- I had been working on the Wes sprites for an hour but piskel crashed and I lost everything. No changes today. I'm really fuckin sad.
+If you're reading this, development will continue. 
 
 9/15/2020
 - Wes Overworld Sprites are complete. 
@@ -49,5 +42,10 @@ With Wes' sprites finished, I can do that bit about him clipping into the floor.
 9/23/2020
 Sorry about the hiatus. I had a problem, unrelated to the game. I'll keep working the game, though I'll likely focus on weekdays going forward. 
 - Intro is almost done. Interior portion is functionally complete, though as with everything, it will require touching up later.
-- Now working on exterior segment of Intro. 
+- Tomorrow I begin working on exterior segment of Intro
 - Added an option to view only the exterior segment at the beginning, for convenience while testing.
+
+9/24/2020
+- Disabling overworld music (flowing fields) in maps I'm working on, because the loop is making me lose my mind. Flowing fields. 
+- Fixed an issue where the cutscene would play even when skipped
+- Completed half the Exterior segment of Intro, should have the other half done tomorrow. 
