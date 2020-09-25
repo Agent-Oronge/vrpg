@@ -49,3 +49,4 @@ Sorry about the hiatus. I had a problem, unrelated to the game. I'll keep workin
 - Disabling overworld music (flowing fields) in maps I'm working on, because the loop is making me lose my mind. Flowing fields. 
 - Fixed an issue where the cutscene would play even when skipped
 - Completed half the Exterior segment of Intro, should have the other half done tomorrow. 
+- Also added some music from threads I had saved, but for some reason no one had put in.
