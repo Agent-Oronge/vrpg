@@ -50,3 +50,7 @@ Sorry about the hiatus. I had a problem, unrelated to the game. I'll keep workin
 - Fixed an issue where the cutscene would play even when skipped
 - Completed half the Exterior segment of Intro, should have the other half done tomorrow. 
 - Also added some music from threads I had saved, but for some reason no one had put in.
+
+9/25/2020
+- Intro cutscene, Interior and Exterior, is complete. Still needs some scratches buffed out, but as a whole, it is done. 
+- Example: Skip intro, you've got doubles of all the characters. I'll deal with that and the other issues.
