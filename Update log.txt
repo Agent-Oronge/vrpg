@@ -54,3 +54,14 @@ Sorry about the hiatus. I had a problem, unrelated to the game. I'll keep workin
 9/25/2020
 - Intro cutscene, Interior and Exterior, is complete. Still needs some scratches buffed out, but as a whole, it is done. 
 - Example: Skip intro, you've got doubles of all the characters. I'll deal with that and the other issues.
+
+9/26/2020
+- Village now linked to castle, can converse with the King
+Thinking it might be good to do away with the Chibi rpgmaker artstyle. Wes' different style gives the effect of him mogging everyone. 
+Would be pretty straightforward, I just need to stretch the lower torsos of all the sprites in gimp. Time consuming though. 
+
+-9/28/2020
+- Created new King cutscene. Again, all of it can be considered placeholder. If there are aspects that people don't like, it's easy to change dialogue.
+- Offers 4 dialogue paths. Took a while. All of it can be tweaked as needed.
+- Need to work out the kinks. Some issues with Jay spawning at undesired times still occurring.
+- Might just work on cleaning things up and figuring out Github pages leading up to the 1st. 
