@@ -73,3 +73,5 @@ Holy fucking shit I did it. This is fucking fantastic. It's a beautiful night to
 Still having some challenges though. Sometimes it links the old one?
 https://agent-oronge.github.io/vrpg/
 - Finished King dialogue
+
+It stopped working... It started linking the old one again, and now it just 404s.
