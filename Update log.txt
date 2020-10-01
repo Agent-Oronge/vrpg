@@ -60,8 +60,16 @@ Sorry about the hiatus. I had a problem, unrelated to the game. I'll keep workin
 Thinking it might be good to do away with the Chibi rpgmaker artstyle. Wes' different style gives the effect of him mogging everyone. 
 Would be pretty straightforward, I just need to stretch the lower torsos of all the sprites in gimp. Time consuming though. 
 
--9/28/2020
+9/28/2020
 - Created new King cutscene. Again, all of it can be considered placeholder. If there are aspects that people don't like, it's easy to change dialogue.
 - Offers 4 dialogue paths. Took a while. All of it can be tweaked as needed.
 - Need to work out the kinks. Some issues with Jay spawning at undesired times still occurring.
 - Might just work on cleaning things up and figuring out Github pages leading up to the 1st. 
+
+9/30/2020
+I've been going at it for a few hours and for the life of me I can't get a playable build working.
+I keep getting this same error message I haven't been able to resolve. 
+Holy fucking shit I did it. This is fucking fantastic. It's a beautiful night to be alive. 
+Still having some challenges though. Sometimes it links the old one?
+https://agent-oronge.github.io/vrpg/
+- Finished King dialogue
