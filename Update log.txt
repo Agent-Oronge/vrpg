@@ -76,9 +76,15 @@ https://agent-oronge.github.io/vrpg/
 
 It stopped working... It started linking the old one again, and now it just 404s.
 
-4/10/2020 (ContracyCC)
+10/4/2020 (ContracyCC)
 - Added 6 maps (Map ID 31-37)
 - Those maps use tilesets 8 and 9 (which are made by combining old tilesets)
 - Some events and NPCs added on those maps. Modify them as you wish.
 - Swtiches 41 and 42 used
 - Variables 21-25 used
+
+10/6/2020 (ContracyCC)
+- Added custom tilesets by Pandamaru
+- Improved maps 31-37 using new the tilesets
+- Added life-sized horse and wagon
+- Switch 43 used
