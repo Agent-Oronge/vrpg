@@ -89,7 +89,12 @@ It stopped working... It started linking the old one again, and now it just 404s
 - Added life-sized horse and wagon
 - Switch 43 used
 
-10/7-8/2020 (ContracyCC)
+10/7/2020 (ContracyCC)
 - Improved the village
 - Modified the intro to fit the new map
 - Added door, waterfall and waterwheel sprites
+
+10/8/2020 (ContracyCC)
+- Improved the main house and the intro
+- Remapped the Casino, Bar, Shop, School and House
+- Swtich 44 used (This is to make house disappear when burned)
