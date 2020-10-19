@@ -23,7 +23,6 @@
 
 9/23/2020 (Agent Orange)
 - Intro is almost done. Interior portion is functionally complete, though as with everything, it will require touching up later.
-- Tomorrow I begin working on exterior segment of Intro
 - Added an option to view only the exterior segment at the beginning, for convenience while testing.
 
 9/24/2020 (Agent Orange)
@@ -72,4 +71,13 @@ https://agent-oronge.github.io/vrpg/
 - Swtich 44 used (This is to make house disappear when burned)
 
 10/14/2020 (Agent Orange)
-- Some minor fixes
+- Some minor fixes. Just really simple shit, like making it so Jay doesn't follow you when you skip the intro anymore. Clean up essentially.
+
+10/15/2020 (Agent Orange)
+- You can now change controls through options at the main menu. In case you'd prefer a WASD layout or just want something different.
+
+10/19/2020 (Agent Orange)
+That bit where Jay finds a coin in a crack has got me thinking. Might be fun to have it so you can send Jay into small tunnels to get things as a recurring mechanic.
+- Going through all the archived threads to save all the ideas and art no one else did. I thought someone was saving it, but turns out no ideas had been written down since the 9th of August, and no art saved since then either.
+- Destroyed House cutscene is complete. 
+- Moe can now join the party.
