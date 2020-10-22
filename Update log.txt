@@ -88,4 +88,11 @@ Question to ask though- Should other people remember events that technically did
 
 10/21/2020 (Agent Orange)
 - Added Shopkeep portrait
-- Added Playback by Nieve into the audio files. It currently plays in the abandoned hideout, but this is a temporary thing.
+- Added Playback by Nieve into the audio files. We could have a few notes play when Wes loads a save, or it could be a theme for someone wearing an Exo-Skele-Teen.
+
+10/22/2020 (Agent Orange)
+- Went through the Archives and saved all the maps from Mapanon that hadn't been saved, as well as all the art and music that hadn't been saved.
+- Updated game icon to the custom vrpg icon
+- Northern passages now allows you to travel to the Lost Forest upon speaking with Shopkeep. Lost forest needs a cleanup though. 
+- Updated intro cutscene
+
