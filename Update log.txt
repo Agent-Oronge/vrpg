@@ -81,3 +81,11 @@ That bit where Jay finds a coin in a crack has got me thinking. Might be fun to 
 - Going through all the archived threads to save all the ideas and art no one else did. I thought someone was saving it, but turns out no ideas had been written down since the 9th of August, and no art saved since then either.
 - Destroyed House cutscene is complete. 
 - Moe can now join the party.
+
+10/20/2020 (Agent Orange)
+- Gave Wes a visual indicator so he doesn't need to explain every time he loads a save. Also some misc cleanup.
+Question to ask though- Should other people remember events that technically didn't occur because Wes loaded a save? How does time progress?
+
+10/21/2020 (Agent Orange)
+- Added Shopkeep portrait
+- Added Playback by Nieve into the audio files. It currently plays in the abandoned hideout, but this is a temporary thing.
