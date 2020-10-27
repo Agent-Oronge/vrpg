@@ -94,5 +94,8 @@ Question to ask though- Should other people remember events that technically did
 - Went through the Archives and saved all the maps from Mapanon that hadn't been saved, as well as all the art and music that hadn't been saved.
 - Updated game icon to the custom vrpg icon
 - Northern passages now allows you to travel to the Lost Forest upon speaking with Shopkeep. Lost forest needs a cleanup though. 
-- Updated intro cutscene
+- Updated intro cutscene, just tiny stuff like adding home debris and changing villager pathing.
 
+10/26/2020 (Agent Orange)
+- Added some events that prompt Advis to tell you things you already know
+- Trying to import mapanon's maps but the problem is all he gave were low res pngs and I don't know how to make that into a map. I used parallax to bring in his town entrance, but it's rather blurry.
