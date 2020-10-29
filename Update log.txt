@@ -78,7 +78,6 @@ https://agent-oronge.github.io/vrpg/
 
 10/19/2020 (Agent Orange)
 That bit where Jay finds a coin in a crack has got me thinking. Might be fun to have it so you can send Jay into small tunnels to get things as a recurring mechanic.
-- Going through all the archived threads to save all the ideas and art no one else did. I thought someone was saving it, but turns out no ideas had been written down since the 9th of August, and no art saved since then either.
 - Destroyed House cutscene is complete. 
 - Moe can now join the party.
 
@@ -98,4 +97,18 @@ Question to ask though- Should other people remember events that technically did
 
 10/26/2020 (Agent Orange)
 - Added some events that prompt Advis to tell you things you already know
-- Trying to import mapanon's maps but the problem is all he gave were low res pngs and I don't know how to make that into a map. I used parallax to bring in his town entrance, but it's rather blurry.
+- Attemping to find a solution to the map pngs being low res. 
+
+10/27/2020 (Agent Orange)
+I used Waifu2x to upscale the Parallax. Probably acceptable. It's not blurry anymore.
+- Added NE Town Entrance for first Boss fight
+- NE Town has proper collision boxes
+
+10/28/2020 (Agent Orange)
+- Created world map layout. Will continue to update it. Necessary to keep adding maps, the game should make sense geographically.
+- The Southern exist of the first town will now be blocked off until we have something to put there. 
+- Saved all the art from archived threads + Mapanon's pics, they've been added to the repo.
+
+10/29/2020 (Agent Orange)
+- Added Moghunter's Combat Hud Plugin. The one that was most liked in the previous threads was 2- Light.
+Combat is kinda fucked right now because I need to fix the scaling and whatnot. There's also no assets for Wes using his gun. 

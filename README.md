@@ -16,6 +16,7 @@ A new thread will be made on the first of every month. Requests for sprites, dia
 
 ## Coding
 - JavaScript scripts to expand the mechanics of our game.
+- We've got an update log to keep track of progress, when you make changes just write the date, changes made, and (optional) a name. 
 
 ## Slave labor
 - Placing resources into the repository and correctly labeling them for use.
