@@ -47,25 +47,25 @@ Would be pretty straightforward, I just need to stretch the lower torsos of all 
 https://agent-oronge.github.io/vrpg/
 - Finished King dialogue
 
-10/4/2020 (ContracyCC)
+10/4/2020 (ContraryCC)
 - Added 6 maps (Map ID 31-37)
 - Those maps use tilesets 8 and 9 (which are made by combining old tilesets)
 - Some events and NPCs added on those maps. Modify them as you wish.
 - Swtiches 41 and 42 used
 - Variables 21-25 used
 
-10/6/2020 (ContracyCC)
+10/6/2020 (ContraryCC)
 - Added custom tilesets by Pandamaru
 - Improved maps 31-37 using new the tilesets
 - Added life-sized horse and wagon
 - Switch 43 used
 
-10/7/2020 (ContracyCC)
+10/7/2020 (ContraryCC)
 - Improved the village
 - Modified the intro to fit the new map
 - Added door, waterfall and waterwheel sprites
 
-10/8/2020 (ContracyCC)
+10/8/2020 (ContraryCC)
 - Improved the main house and the intro
 - Remapped the Casino, Bar, Shop, School and House
 - Swtich 44 used (This is to make house disappear when burned)
@@ -112,3 +112,17 @@ I used Waifu2x to upscale the Parallax. Probably acceptable. It's not blurry any
 10/29/2020 (Agent Orange)
 - Added Moghunter's Combat Hud Plugin. The one that was most liked in the previous threads was 2- Light.
 Combat is kinda fucked right now because I need to fix the scaling and whatnot. There's also no assets for Wes using his gun. 
+
+11/1/2020 (ContraryCC)
+- Touched up Lost Forest and added a few maps (Map ID 41-53)
+- Imported Youfulca bgm for forest (placeholder)
+- Added sprites for movable and platforming objects
+- Added sprites for vine climbing mechanic
+- Added 'kurukurufire' animation for casting Growth
+- Added 'Black' image for transitions
+- Added First Seed Material tilesets
+- Added Moghunter's weather plugin + images used for that purpose
+- Added EST event graphic shift plugin
+- Added items Wooden Plate and Growth for field usage(ID 9-10)
+- Switches 50-57 used
+- Variables 25-33 used
