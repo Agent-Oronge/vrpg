@@ -5,6 +5,7 @@ A new thread will be made on the first of every month. Requests for sprites, dia
 
 - If the thread hits the bump limit, a new one will be made, but if it dies the next one will be first of next month.
 - Dead thread =/= Dead game. 
+Anyone can contribute. If you make changes to the game, just write down in the update log the date, changes, (optional) and your name. 
 
 ## Art
 - Tan busts and sprites for the Board tans and game genre tans.
@@ -16,6 +17,7 @@ A new thread will be made on the first of every month. Requests for sprites, dia
 
 ## Coding
 - JavaScript scripts to expand the mechanics of our game.
+- We've got an update log to keep track of progress, when you make changes just write the date, changes made, and (optional) a name. 
 
 ## Slave labor
 - Placing resources into the repository and correctly labeling them for use.

@@ -1,80 +1,51 @@
-9/9/2020
-- Still learning the all the bells and whistles of rpgmaker, but am more competant
+9/9/2020 (Agent Orange)
 - Added Titlescreen image
 - Game begins inside village rather than the old overworld. 
 - Updated the readme
 - Currently redoing intro
 
-9/10/2020
-- Now have dialogue written for intro by generous anon
-- Writing events for intro (this is my first time creating a cutscene so please have patience with me)
+9/10/2020 (Agent Orange)
+- Now have dialogue written for intro
 - Updating Wes' sprite to the oc one, but I need to make some frames myself as it was incomplete.
 
-9/11/2020
--Not much today. Spent a few hours learning about sprites and actors. Sounds ridiculous but I'm new to alot of this. 
--Working on Wes' new frames. Should be done soon. Wes will no longer be a manlet following.
-
-9/12/2020
-Thread died! Fuck! But I'm not going to quit.
-Shit, I'm going to miss Cioc Saz. He was a nice guy.  
-If you're reading this, development will continue. 
-
-9/15/2020
+9/15/2020 (Agent Orange)
 - Wes Overworld Sprites are complete. 
 - Wes no longer has a sword in his overworld sprite. Sorry. I couldn't make it look good. 
 - 8 frame plugin works, and Wes' buttery smooth overworld sprites have now been implemented into the game. 
-- Wes is no longer a manlet, sizing issues are now resolved. 
-Next step is to redo the intro. 
-With Wes' sprites finished, I can do that bit about him clipping into the floor. 
+- Wes is no longer a manlet, sizing issues are now resolved.  
 
-9/16/2020
+9/16/2020 (Agent Orange)
 - Created sprites of Wes clipping into the floor for the intro. 
 
-9/17/2020
-- Good headway on the intro. Got all the bits leading up to the creature breaking in. 
+9/17/2020 (Agent Orange)
 - Wes floor clipping sprite sheets are now in game
 - Added a tombstone in the village to mark future location of cemetary.
-- Still not sure how to link a playable build, but I will figure it out. 
 
-9/18/2020
-- More work on the intro. A bit more than half done now. Almost all the assets are placeholders though...
-
-9/23/2020
-Sorry about the hiatus. I had a problem, unrelated to the game. I'll keep working the game, though I'll likely focus on weekdays going forward. 
+9/23/2020 (Agent Orange)
 - Intro is almost done. Interior portion is functionally complete, though as with everything, it will require touching up later.
-- Tomorrow I begin working on exterior segment of Intro
 - Added an option to view only the exterior segment at the beginning, for convenience while testing.
 
-9/24/2020
-- Disabling overworld music (flowing fields) in maps I'm working on, because the loop is making me lose my mind. Flowing fields. 
+9/24/2020 (Agent Orange)
 - Fixed an issue where the cutscene would play even when skipped
-- Completed half the Exterior segment of Intro, should have the other half done tomorrow. 
-- Also added some music from threads I had saved, but for some reason no one had put in.
+- Completed half the Exterior segment of Intro
+- Updated music in Repository
 
-9/25/2020
+9/25/2020 (Agent Orange)
 - Intro cutscene, Interior and Exterior, is complete. Still needs some scratches buffed out, but as a whole, it is done. 
-- Example: Skip intro, you've got doubles of all the characters. I'll deal with that and the other issues.
 
-9/26/2020
+9/26/2020 (Agent Orange)
 - Village now linked to castle, can converse with the King
 Thinking it might be good to do away with the Chibi rpgmaker artstyle. Wes' different style gives the effect of him mogging everyone. 
 Would be pretty straightforward, I just need to stretch the lower torsos of all the sprites in gimp. Time consuming though. 
 
-9/28/2020
-- Created new King cutscene. Again, all of it can be considered placeholder. If there are aspects that people don't like, it's easy to change dialogue.
-- Offers 4 dialogue paths. Took a while. All of it can be tweaked as needed.
-- Need to work out the kinks. Some issues with Jay spawning at undesired times still occurring.
-- Might just work on cleaning things up and figuring out Github pages leading up to the 1st. 
+9/28/2020 (Agent Orange)
+- Created new King cutscene.
+- Offers 4 dialogue paths. All of it can be tweaked as needed.
 
-9/30/2020
-I've been going at it for a few hours and for the life of me I can't get a playable build working.
-I keep getting this same error message I haven't been able to resolve. 
-Holy fucking shit I did it. This is fucking fantastic. It's a beautiful night to be alive. 
-Still having some challenges though. Sometimes it links the old one?
+9/30/2020 (Agent Orange)
+- New playable build
 https://agent-oronge.github.io/vrpg/
 - Finished King dialogue
-
-It stopped working... It started linking the old one again, and now it just 404s.
 
 10/4/2020 (ContracyCC)
 - Added 6 maps (Map ID 31-37)
@@ -98,3 +69,46 @@ It stopped working... It started linking the old one again, and now it just 404s
 - Improved the main house and the intro
 - Remapped the Casino, Bar, Shop, School and House
 - Swtich 44 used (This is to make house disappear when burned)
+
+10/14/2020 (Agent Orange)
+- Some minor fixes. Just really simple shit, like making it so Jay doesn't follow you when you skip the intro anymore. Clean up essentially.
+
+10/15/2020 (Agent Orange)
+- You can now change controls through options at the main menu. In case you'd prefer a WASD layout or just want something different.
+
+10/19/2020 (Agent Orange)
+That bit where Jay finds a coin in a crack has got me thinking. Might be fun to have it so you can send Jay into small tunnels to get things as a recurring mechanic.
+- Destroyed House cutscene is complete. 
+- Moe can now join the party.
+
+10/20/2020 (Agent Orange)
+- Gave Wes a visual indicator so he doesn't need to explain every time he loads a save. Also some misc cleanup.
+Question to ask though- Should other people remember events that technically didn't occur because Wes loaded a save? How does time progress?
+
+10/21/2020 (Agent Orange)
+- Added Shopkeep portrait
+- Added Playback by Nieve into the audio files. We could have a few notes play when Wes loads a save, or it could be a theme for someone wearing an Exo-Skele-Teen.
+
+10/22/2020 (Agent Orange)
+- Went through the Archives and saved all the maps from Mapanon that hadn't been saved, as well as all the art and music that hadn't been saved.
+- Updated game icon to the custom vrpg icon
+- Northern passages now allows you to travel to the Lost Forest upon speaking with Shopkeep. Lost forest needs a cleanup though. 
+- Updated intro cutscene, just tiny stuff like adding home debris and changing villager pathing.
+
+10/26/2020 (Agent Orange)
+- Added some events that prompt Advis to tell you things you already know
+- Attemping to find a solution to the map pngs being low res. 
+
+10/27/2020 (Agent Orange)
+I used Waifu2x to upscale the Parallax. Probably acceptable. It's not blurry anymore.
+- Added NE Town Entrance for first Boss fight
+- NE Town has proper collision boxes
+
+10/28/2020 (Agent Orange)
+- Created world map layout. Will continue to update it. Necessary to keep adding maps, the game should make sense geographically.
+- The Southern exist of the first town will now be blocked off until we have something to put there. 
+- Saved all the art from archived threads + Mapanon's pics, they've been added to the repo.
+
+10/29/2020 (Agent Orange)
+- Added Moghunter's Combat Hud Plugin. The one that was most liked in the previous threads was 2- Light.
+Combat is kinda fucked right now because I need to fix the scaling and whatnot. There's also no assets for Wes using his gun. 
