@@ -126,3 +126,6 @@ Combat is kinda fucked right now because I need to fix the scaling and whatnot. 
 - Added items Wooden Plate and Growth for field usage(ID 9-10)
 - Switches 50-57 used
 - Variables 25-33 used
+
+11/5/2020 (Agent Orange)
+Added music by MammothPlant to repo. 
