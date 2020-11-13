@@ -129,3 +129,6 @@ Combat is kinda fucked right now because I need to fix the scaling and whatnot. 
 
 11/5/2020 (Agent Orange)
 Added music by MammothPlant to repo. 
+
+11/12/2020 (Agent Orange)
+-Manually editing all assets of hud to fit current resolution.
