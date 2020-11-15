@@ -132,3 +132,6 @@ Added music by MammothPlant to repo.
 
 11/12/2020 (Agent Orange)
 -Manually editing all assets of hud to fit current resolution.
+
+11/14/2020 (Agent Orange)
+-Hud no longer broken. Looks very rough though. Will need to polish off sometime down the line.
