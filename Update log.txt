@@ -142,5 +142,5 @@ Added music by MammothPlant to repo.
 11/16/2020 (Agent Orange)
 -Minor fixes
 -Liver Cancer's enemies are now in game, but they don't have stats yet. 
+-Added Alpha Layer to King Portrait. 
 
-/tg/ battle sprite could be an edited general_m
