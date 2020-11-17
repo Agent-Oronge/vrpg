@@ -138,3 +138,9 @@ Added music by MammothPlant to repo.
 
 11/15/2020 (Agent Orange)
 -Repo update
+
+11/16/2020 (Agent Orange)
+-Minor fixes
+-Liver Cancer's enemies are now in game, but they don't have stats yet. 
+
+/tg/ battle sprite could be an edited general_m
