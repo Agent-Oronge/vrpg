@@ -2,7 +2,7 @@
 - Added Titlescreen image
 - Game begins inside village rather than the old overworld. 
 - Updated the readme
-- Currently redoing intro
+
 
 9/10/2020 (Agent Orange)
 - Now have dialogue written for intro
@@ -22,7 +22,6 @@
 - Added a tombstone in the village to mark future location of cemetary.
 
 9/23/2020 (Agent Orange)
-- Intro is almost done. Interior portion is functionally complete, though as with everything, it will require touching up later.
 - Added an option to view only the exterior segment at the beginning, for convenience while testing.
 
 9/24/2020 (Agent Orange)
@@ -31,7 +30,7 @@
 - Updated music in Repository
 
 9/25/2020 (Agent Orange)
-- Intro cutscene, Interior and Exterior, is complete. Still needs some scratches buffed out, but as a whole, it is done. 
+- Intro cutscene is complete. 
 
 9/26/2020 (Agent Orange)
 - Village now linked to castle, can converse with the King
@@ -111,7 +110,6 @@ I used Waifu2x to upscale the Parallax. Probably acceptable. It's not blurry any
 
 10/29/2020 (Agent Orange)
 - Added Moghunter's Combat Hud Plugin. The one that was most liked in the previous threads was 2- Light.
-Combat is kinda fucked right now because I need to fix the scaling and whatnot. There's also no assets for Wes using his gun. 
 
 11/1/2020 (ContraryCC)
 - Touched up Lost Forest and added a few maps (Map ID 41-53)
@@ -128,22 +126,25 @@ Combat is kinda fucked right now because I need to fix the scaling and whatnot. 
 - Variables 25-33 used
 
 11/5/2020 (Agent Orange)
-Added music by MammothPlant to repo. 
+- Added music by MammothPlant to repo. 
 
 11/12/2020 (Agent Orange)
--Manually editing all assets of hud to fit current resolution.
+- Manually editing all assets of hud to fit current resolution.
 
 11/14/2020 (Agent Orange)
--Hud no longer broken. Looks very rough though. Will need to polish off sometime down the line.
+- Hud no longer broken. Looks very rough though. Will need to polish off sometime down the line.
 
 11/15/2020 (Agent Orange)
--Repo update
+- Repo update
 
 11/16/2020 (Agent Orange)
--Minor fixes
--Liver Cancer's enemies are now in game, but they don't have stats yet. 
--Added Alpha Layer to King Portrait. 
+- Minor fixes
+- Liver Cancer's enemies are now in game, but they don't have stats yet. 
+- Added Alpha Layer to King Portrait. 
 
 11/17/2020 (Agent Orange)
--Added King Portraits to all King dialogue
--Added some misc animation assets
+- Added King Portraits to all King dialogue
+- Added some misc animation assets
+
+11/18/2020 (Agent Orange)
+- Added Yanfly's Battle BMG Control Plugin to allow for different BGMs with different encounters.
