@@ -146,3 +146,4 @@ Added music by MammothPlant to repo.
 
 11/17/2020 (Agent Orange)
 -Added King Portraits to all King dialogue
+-Added some misc animation assets
