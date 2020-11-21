@@ -151,7 +151,6 @@ I used Waifu2x to upscale the Parallax. Probably acceptable. It's not blurry any
 
 11/19/2020 (Agent Orange)
 - Added Yanfly Battle animation plugin
-- Added Shotgun sprites for Wes, Which now appears in battle
-
-May need to scrap current hud. 
+- Added Shotgun sprites for Wes, Which now appears in battle, and a sideview battler template
+- Fixed issue with icons. May need to scrap current hud. 
 I've spent a while making it compatible with the current resolution but it still looks like shit and I'm not sure if it'd be possible to make it not look like shit.
