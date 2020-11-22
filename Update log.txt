@@ -154,3 +154,7 @@ I used Waifu2x to upscale the Parallax. Probably acceptable. It's not blurry any
 - Added Shotgun sprites for Wes, Which now appears in battle, and a sideview battler template
 - Fixed issue with icons. May need to scrap current hud. 
 I've spent a while making it compatible with the current resolution but it still looks like shit and I'm not sure if it'd be possible to make it not look like shit.
+
+11/21/2020 (Agent Orange)
+- Added Yanfly plugins for Animated Enemies, Victory Aftermath, Leveling, Battle Engine core, and Enemy leveling. 
+- Working on combat system. We can't very well have a first boss without a combat system.
