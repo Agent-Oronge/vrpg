@@ -158,3 +158,8 @@ I've spent a while making it compatible with the current resolution but it still
 11/21/2020 (Agent Orange)
 - Added Yanfly plugins for Animated Enemies, Victory Aftermath, Leveling, Battle Engine core, and Enemy leveling. 
 - Working on combat system. We can't very well have a first boss without a combat system.
+
+11/24/2020 (Agent Orange)
+- Scrapped old hud. Going with Yanfly for the time being. Once everything's working with that, we can work on changing the hud. Think I put the cart before the horse on that one.
+- Now using Yanfly hud + some other plugins.
+- Minor changes to system
