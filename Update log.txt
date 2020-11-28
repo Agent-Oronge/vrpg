@@ -163,3 +163,10 @@ I've spent a while making it compatible with the current resolution but it still
 - Scrapped old hud. Going with Yanfly for the time being. Once everything's working with that, we can work on changing the hud. Think I put the cart before the horse on that one.
 - Now using Yanfly hud + some other plugins.
 - Minor changes to system
+
+11/27/2020 (Agent Orange)
+- Added a shitload of plugins
+- Using Yanfly Standard Turn Battle
+- We now have a functioning battle system!
+- Added option to skip first village, and to do a test battle
+Working on creating a balanced combat system.
