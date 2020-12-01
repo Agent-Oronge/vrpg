@@ -140,7 +140,6 @@ I used Waifu2x to upscale the Parallax. Probably acceptable. It's not blurry any
 11/16/2020 (Agent Orange)
 - Minor fixes
 - Liver Cancer's enemies are now in game, but they don't have stats yet. 
-- Added Alpha Layer to King Portrait. 
 
 11/17/2020 (Agent Orange)
 - Added King Portraits to all King dialogue
