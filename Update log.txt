@@ -170,3 +170,7 @@ I've spent a while making it compatible with the current resolution but it still
 - We now have a functioning battle system!
 - Added option to skip first village, and to do a test battle
 Working on creating a balanced combat system.
+
+11/30/2020 (Agent Orange)
+- Removed some old NE Town Entrance map, and the old first town
+- Added Sneed and Chuck dialogue cutscene
