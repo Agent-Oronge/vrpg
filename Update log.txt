@@ -173,3 +173,6 @@ Working on creating a balanced combat system.
 11/30/2020 (Agent Orange)
 - Removed some old NE Town Entrance map, and the old first town
 - Added Sneed and Chuck dialogue cutscene
+
+12/5/2020 (Agent Orange)
+- Cleanup
